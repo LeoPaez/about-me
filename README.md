@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leonel</h1>
-<h3 align="center">A passionate frontend developer from Argentina</h3>
+<h3 align="center">A frontend developer from Argentina</h3>
 
 - 💼 All of my projects are available at <a href="https://lp-portfolio.vercel.app/">my personal portfolio</a>
 
