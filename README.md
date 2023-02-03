@@ -1,5 +1,5 @@
 # 💫 About Me:
-## I'm Leonel, an enthusiastic frontend developer 👨‍💻 working on my own projects 🚀<br>
+### I'm Leonel, an enthusiastic frontend developer 👨‍💻 working on my own projects 🚀
 ####💼 All of my projects are available at my personal portfolio
 
 
