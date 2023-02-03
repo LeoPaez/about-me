@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 ### I'm Leonel, an enthusiastic frontend developer 👨‍💻 working on my own projects 🚀
 #### 💼 All of my projects are available at my <a href="https://lp-portfolio.vercel.app/">personal portfolio</a>
 
